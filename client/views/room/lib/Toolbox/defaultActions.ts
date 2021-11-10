@@ -22,7 +22,6 @@ addAction('data-helper', {
   title: 'Data_helper',
   icon: 'user',
   template: 'DataHelper',
-  // template: lazy(() => import('/app/search/client/search/datahelper')),
   order: 1,
 });
 
