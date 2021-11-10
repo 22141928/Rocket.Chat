@@ -14,8 +14,8 @@
         order: 1,
     });
     ```
-2. The new tab will show when click on the second icon.
-   There are some functions such as `text_summary`,`memo`,`search`.
+2. The new tab will show when click on the second icon.  
+   There are some functions such as `text_summary`,`memo`,`search`.  
    relative code: `app/datahelper` 
 3. And you can click on the message detail and then select `文本摘要`  
    relative code: Only add a function of `addButton` about `text_summary`, the modify locals in `app/message-star/client/actionButton.js`.
