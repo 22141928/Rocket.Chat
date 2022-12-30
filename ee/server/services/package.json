@@ -27,7 +27,7 @@
 		"nats": "^1.4.8",
 		"underscore.string": "^3.3.5",
 		"uuid": "^7.0.3",
-		"ws": "^7.2.3",
+		"ws": "^8.11.0",
 		"eventemitter3": "^4.0.7",
 		"body-parser": "^1.19.0",
 		"cookie": "^0.4.1",
@@ -39,7 +39,7 @@
 	"devDependencies": {
 		"@types/ejson": "^2.1.2",
 		"@types/node": "^14.6.4",
-		"@types/ws": "^7.2.6",
+		"@types/ws": "^8.5.4",
 		"pm2": "^4.4.1",
 		"ts-node": "^9.0.0",
 		"typescript": "^3.9.7",
